@@ -51,3 +51,11 @@ Python Streamlit Calculator with Matlab Backend. The main idea of the project is
 ## Output
 
 ![Output](Output/output1.png)
+
+## Changes That Can Be Made
+
+> The evaluate.py file containes the function to solve the infix expression. So if you want to take infix expression as input and solve the output you can do that. But then you won't be able to use Matlab.
+
+## To-Do
+
+[] Make scientific Calculator
