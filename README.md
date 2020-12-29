@@ -50,4 +50,4 @@ Python Streamlit Calculator with Matlab Backend. The main idea of the project is
 
 ## Output
 
-![Output](output1.png)
+![Output](Output/output1.png)
