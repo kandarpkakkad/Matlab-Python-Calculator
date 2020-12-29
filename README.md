@@ -58,4 +58,4 @@ Python Streamlit Calculator with Matlab Backend. The main idea of the project is
 
 ## To-Do
 
-[] Make scientific Calculator
+- [ ] Make scientific Calculator
